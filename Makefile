@@ -1,6 +1,6 @@
 
 .PHONY: ct cat com push gt checkpkg clean remove aareload
-PKG=pcrcoal_1.1.tar.gz
+PKG=pcrcoal_1.2.0.tar.gz
 
 ct:
 	git log --graph
